@@ -4,6 +4,7 @@
 
 @import url("./utilidades/tipografia.css");
 @import url("./utilidades/cores.css");
+
 @import url("./utilidades/componentes.css");
 @import url("./utilidades/formulario.css");
 
@@ -23,6 +24,8 @@
 @import url("./bicicleta/seguro.css");
 
 @import url("./contato/contato.css");
-@import url("./lojas/lojas.css");
+@import url("./contato/lojas.css");
+
+@import url("./orcamento/orcamento.css");
 
 @import url("./termos/termos.css");
